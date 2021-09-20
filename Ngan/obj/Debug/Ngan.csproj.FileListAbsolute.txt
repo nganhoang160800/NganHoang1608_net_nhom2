@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Ngan\Ngan\bin\Debug\Ngan.exe.config
+C:\Users\Admin\source\repos\Ngan\Ngan\bin\Debug\Ngan.exe
+C:\Users\Admin\source\repos\Ngan\Ngan\bin\Debug\Ngan.pdb
+C:\Users\Admin\source\repos\Ngan\Ngan\obj\Debug\Ngan.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Ngan\Ngan\obj\Debug\Ngan.Properties.Resources.resources
+C:\Users\Admin\source\repos\Ngan\Ngan\obj\Debug\Ngan.Ngan.resources
+C:\Users\Admin\source\repos\Ngan\Ngan\obj\Debug\Ngan.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Ngan\Ngan\obj\Debug\Ngan.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Ngan\Ngan\obj\Debug\Ngan.exe
+C:\Users\Admin\source\repos\Ngan\Ngan\obj\Debug\Ngan.pdb
